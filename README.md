@@ -4,9 +4,9 @@ This is a restful api build with express and mongoose
 #nodejs need to be install on your machine to run this project
 
 structure
-Routes =>All routes are here<br>
-Models => All models with Mongoose Schema
-MiddleWare JWT Token and secure route
+>Routes =>All routes are here<br>
+>Models => All models with Mongoose Schema<br>
+>MiddleWare JWT Token and secure route</br>
 To Start 
 .create .env file on the project directory and create a variable and assign it your mongodb url
 .npm install to install packages
