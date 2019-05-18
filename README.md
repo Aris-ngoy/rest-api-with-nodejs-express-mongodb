@@ -7,7 +7,7 @@ structure
 >Routes =>All routes are here<br>
 >Models => All models with Mongoose Schema<br>
 >MiddleWare JWT Token and secure route</br>
-To Start 
-.create .env file on the project directory and create a variable and assign it your mongodb url
-.npm install to install packages
-.npm start to start your server
+To Start<br> 
+.create .env file on the project directory and create a variable and assign it your mongodb url<br>
+.npm install to install packages<br>
+.npm start to start your server<br>
